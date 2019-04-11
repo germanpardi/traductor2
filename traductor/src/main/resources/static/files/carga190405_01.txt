@@ -1,0 +1,9 @@
+hola;hello;p;;0;
+adios;good bye;f;;0;
+azul;blue;p;adj;0;
+;con fallo espana;p;;0;
+
+con fallo ingles;;p;;0;
+mas de 5 campos;en ingles;f;ff;0;t;
+espacio   espacio   espacio   ;espacio   espacio   espacio   ;f;;0;
+3 campos;;
